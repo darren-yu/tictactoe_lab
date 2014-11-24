@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function(){
 		resetCounter += 1;
 		for(var i = 0; i < tableCells.length; i++) {
 			if (resetCounter % 2 === 0) {
-			tableCells[i].style.backgroundColor="lime";
+				tableCells[i].style.backgroundColor="lime";
 			}
 			else {
 				tableCells[i].style.backgroundColor="violet";
