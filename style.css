@@ -1,0 +1,18 @@
+.heading {
+	font-family:'Lobster', cursive;
+}
+
+.tableRow {
+	margin: 0 auto;
+	width: 200px;
+	height: 100px;
+}
+
+td {
+	background-color: lime;
+}
+
+button.btn {
+	background-color: lightgray;
+}
+
